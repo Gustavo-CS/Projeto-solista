@@ -1,1 +1,1 @@
-# Projeto-solista
+# Projeto-solista-completo
